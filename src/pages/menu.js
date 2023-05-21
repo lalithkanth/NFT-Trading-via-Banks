@@ -59,7 +59,7 @@ const menus = [
     {
         id: 6,
         name: 'NFT Loan',
-        links: 'http://localhost:3000/',
+        links: 'https://175a-2406-b400-b4-cb08-e0a6-26ad-1fb5-3464.ngrok-free.app/',
         // namesub: [
         //     {
         //         id: 1,
